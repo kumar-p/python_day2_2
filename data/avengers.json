@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Iron Man",
+        "real_name": "Tony Stark",
+        "abilities": ["Genius-level intellect", "Proficient scientist and engineer", "Powered armor suit"]
+    },
+    {
+        "name": "Captain America",
+        "real_name": "Steve Rogers",
+        "abilities": ["Enhanced strength", "Enhanced agility", "Master tactician", "Expert hand-to-hand combatant"]
+    },
+    {
+        "name": "Thor",
+        "real_name": "Thor Odinson",
+        "abilities": ["Superhuman strength", "Control over lightning", "Flight", "Longevity"]
+    },
+    {
+        "name": "Hulk",
+        "real_name": "Bruce Banner",
+        "abilities": ["Superhuman strength", "Regeneration", "High resistance to physical damage"]
+    },
+    {
+        "name": "Black Widow",
+        "real_name": "Natasha Romanoff",
+        "abilities": ["Expert spy", "Martial artist", "Marksman", "Enhanced agility"]
+    },
+    {
+        "name": "Hawkeye",
+        "real_name": "Clint Barton",
+        "abilities": ["Master archer", "Expert tactician", "Martial artist"]
+    }
+]
