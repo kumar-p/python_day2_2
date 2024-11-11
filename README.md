@@ -4,3 +4,5 @@
 4. Open the command pallate using CTRL + SHIFT + P
 5. Type and select "Dev Containers: Rebuild and Reopen in Container" VSCode will take some time to download the python image, build and run the container
 6. After the previous step is done you are ready to play with Python in VSCode (using a Python Linux container)
+
+There are Markdown files in each folder. You can go to view mode by using keyboard shortcut CTRL + SHIFT + V
